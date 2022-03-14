@@ -1,6 +1,7 @@
 # Data analysis: Relationship between meat consumption and life expectancy
 
-## It is nearly established scientific fact that consuming too much meat is harmful to our health. I explore if there is a correlation between life expectancy (as an indicator of health) and meat consumption.  I used data from Wikipedia and other websites to get meat consumption of different countries and their life expectancy at birth. 
+## Description 
+It is nearly established scientific fact that consuming too much meat is harmful to our health. I explore if there is a correlation between life expectancy (as an indicator of health) and meat consumption.  I used data from Wikipedia and other websites to get meat consumption of different countries and their life expectancy at birth. 
 
 ## Visuals 
 ![image](https://user-images.githubusercontent.com/96607633/158109747-984381b7-9648-4015-b9cc-c64a6004b9d6.png)
