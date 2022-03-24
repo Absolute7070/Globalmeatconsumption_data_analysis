@@ -16,3 +16,5 @@ Positive and significant correlation between meat consumption and life expectanc
 Just explore it if interested. 
 
 
+## License 
+MIT
